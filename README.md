@@ -99,7 +99,7 @@ Copy `sample_info.py` → `info.py` and fill in your values, **or** set them as 
 
 ### ☁️ Koyeb (Recommended)
 
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/GouthamSER/KuttuBot&branch=main&name=kuttubot">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/adarshmedia/KuttuBot&branch=main&name=kuttubot">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy to Koyeb">
 </a>
 
